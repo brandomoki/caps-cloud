@@ -21,3 +21,6 @@ node driver.js
 ## Credits and Collaborators
 
 Demo code, Tyler main, Luis Rosales
+
+## UML
+![UML](./img/LAB19_UML.png)
